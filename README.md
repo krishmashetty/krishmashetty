@@ -1,112 +1,101 @@
-<h1 align="center">Hi 👋, I'm Krishma Shetty</h1>
+```md
+# Hi 👋, I'm Krishma Shetty
 
-<h3 align="center">
-Full Stack Developer | MERN Stack & Java Full Stack Enthusiast
-</h3>
+### MERN Stack Developer | React.js • Node.js • Express.js • MongoDB
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Full+Stack+Learner;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Building+Modern+Web+Applications;React.js+%7C+Node.js+%7C+MongoDB;Always+Learning+and+Growing" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 Computer Science Engineering Student
-
 📍 Mumbai, India
 
-🌱 Currently exploring:
-- MERN Stack Development
-- Spring Boot
-- REST APIs
-- Cloud Technologies
+🎓 Computer Science Engineering Student
 
-💡 Passionate about building user-friendly and scalable applications.
+💻 Passionate MERN Stack Developer focused on building responsive and user-friendly web applications.
+
+🌱 Currently learning and improving my skills in React.js, Node.js, Express.js, and MongoDB.
 
 📧 Email: **shettykrishma2022@gmail.com**
 
 ---
 
-## 🚀 Experience
-
-### MERN Stack Software Engineer Trainee
-**Invemtron Technologies LLP**
-- Developed full-stack web applications using MongoDB, Express.js, React.js and Node.js.
-- Built secure REST APIs and authentication systems.
-- Implemented role-based access control and reusable React components.
-- Worked on debugging, testing and deployment.
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+## 🛠️ Tech Stack
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 💼 Job Portal with Resume Analyzer
-- MERN Stack + OpenAI API
-- Resume analysis and job matching
-- Real-time messaging using Socket.IO
-- Recruiter and applicant dashboards
+
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js
+
+- Secure Authentication
+- AI Resume Analysis
+- Real-Time Messaging
+- Responsive UI
 
 ### 🎓 College Fee Management System
-- Java Full Stack Application
-- Spring Boot + MySQL
-- Role-Based Access Control
-- Automated fee tracking and reporting
+
+**Tech Stack:** Java, MySQL, HTML, CSS
+
+- Fee Management
+- Payment Tracking
+- Receipt Generation
+- Admin Dashboard
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Stats
 
-🏅 Research Paper on AI & Machine Learning in Wireless Communication
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishmashetty&show_icons=true&theme=tokyonight" />
+</p>
 
-🏅 Postman API Certification
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishmashetty&layout=compact&theme=tokyonight" />
+</p>
 
-🏅 Analysis and Design of Algorithms Certification
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=krishmashetty&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌟 Quote
+## 🌐 Connect With Me
 
-> "Keep building, keep learning, and let your projects speak for your skills."
+<p>
+<a href="mailto:shettykrishma2022@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
-⭐ Thanks for visiting my profile!
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
+```
