@@ -91,7 +91,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=krishma-shetty&theme=tokyonight" />
+  <img src="https://github.com/krishmashetty&theme=tokyonight" />
 </p>
 
 ---
