@@ -8,7 +8,7 @@
 - 🌱 Currently learning **Java Full Stack Development**
 - 💻 Exploring **Spring Boot, React, MongoDB**
 - 🎯 Goal: Become a Full Stack Developer
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: shettykrishma2022@gmail.com
 
 ---
 
