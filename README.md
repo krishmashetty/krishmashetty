@@ -85,13 +85,15 @@
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=krishma-shetty&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishma-shetty&layout=compact&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=krishmashetty&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishmashetty&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/krishmashetty&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=krishmashetty&theme=tokyonight" />
 </p>
 
 ---
