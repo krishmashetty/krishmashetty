@@ -85,17 +85,17 @@
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=krishmashetty&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishmashetty&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishmashetty&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=krishmashetty&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishmashetty&layout=compact&theme=github_dark" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=krishmashetty&theme=github-dark-blue" />
+</p>
 ---
 
 ## 🌐 Connect With Me
